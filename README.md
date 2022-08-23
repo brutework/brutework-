@@ -1,4 +1,5 @@
 ``brutework``
+
 pkg install python
 
 pkg install git
@@ -17,6 +18,6 @@ pip install mechanize
 
 git clone https://github.com/brutework/brutework-
 
-cd brutework
+cd brutework-
 
 python brutework.py
